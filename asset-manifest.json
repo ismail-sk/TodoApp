@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ismail-sk/todoapp/static/css/main.15af3a00.css",
+    "main.js": "/ismail-sk/todoapp/static/js/main.fab45b0e.js",
+    "index.html": "/ismail-sk/todoapp/index.html",
+    "main.15af3a00.css.map": "/ismail-sk/todoapp/static/css/main.15af3a00.css.map",
+    "main.fab45b0e.js.map": "/ismail-sk/todoapp/static/js/main.fab45b0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15af3a00.css",
+    "static/js/main.fab45b0e.js"
+  ]
+}
